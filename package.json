@@ -2,7 +2,8 @@
   "template": {
     "usedBy": [
       "arlac77/template-arlac77-github",
-      "arlac77/template-kronos-component"
+      "arlac77/template-kronos-component",
+      "k0nsti/konsum-db"
     ],
     "mergers": [
       {
