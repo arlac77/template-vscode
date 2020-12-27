@@ -4,7 +4,8 @@
       "arlac77/template-arlac77-github",
       "arlac77/template-kronos-component",
       "konsumation/konsum",
-      "konsumation/konsum-db"
+      "konsumation/konsum-db",
+      "konsumation/konsum-frontend"
     ],
     "mergers": [
       {
