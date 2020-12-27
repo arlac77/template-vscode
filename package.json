@@ -5,7 +5,7 @@
       "arlac77/template-kronos-component",
       "konsumation/konsum",
       "konsumation/konsum-db",
-      "konsumation/konsum-frontend"
+      "konsumation/konsum-frontend-svelte"
     ],
     "mergers": [
       {
