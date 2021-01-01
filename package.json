@@ -6,7 +6,7 @@
     ],
     "mergers": [
       {
-        "type": "Replace",
+        "type": "JSONMerge",
         "pattern": ".vscode/launch.json"
       }
     ]
