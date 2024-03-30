@@ -3,6 +3,7 @@
     "usedBy": [
       "arlac77/template-arlac77-github",
       "arlac77/template-kronos-component",
+      "konsumation/db-test",
       "konsumation/model"
     ],
     "mergers": [
