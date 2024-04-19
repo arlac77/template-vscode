@@ -6,6 +6,7 @@
       "konsumation/db-level",
       "konsumation/db-postgresql",
       "konsumation/db-test",
+      "konsumation/fetch-client",
       "konsumation/model"
     ],
     "mergers": [
